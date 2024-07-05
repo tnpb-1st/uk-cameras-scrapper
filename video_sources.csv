@@ -1,0 +1,9 @@
+Id;Group;Address;Url;Impacts
+0;0;Camberwell New Rd/Brixton Rd;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04503.mp4;2,3
+1;0;A3 Clapham Rd/Elias Place;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04608.mp4;3,2
+2;0;Harleyford St/Ken Pk Rd;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04332.mp4;-1
+3;0;Kenington Pk Rd/Kennington Oval;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04503.mp4;-1
+4;1;Harleyford Rd/Vauxhall Grove;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04329.mp4;5
+5;1;Kennington Lane;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04300.mp4;-1
+6;2;Parkhurst Rd by Holloway Rd;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09605.mp4;7
+7;2;Seven Sisters Rd/Holloway Rd;https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09711.mp4;-1

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    environment:
+      - CSV_FILENAME=CSV_PATH
+      - VIDEOS_BASE_PATH=VIDEO_FOLDER_PATH
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
